@@ -92,15 +92,17 @@ async function main() {
         {
           label: chalk.hex("#1dc4e9")("React"),
           value: "react",
-          hint: "(vite+ts)",
+          hint: "vite+ts",
         },
         {
           label: gradient(["#00ff7f", "#00d084"])("Vue"),
           value: "vue",
+          hint: "+ Typescript",
         },
         {
           label: chalk.white("Next.js"),
           value: "nextjs",
+          hint: "+ TailwindCSS",
         },
       ],
     });
