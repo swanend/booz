@@ -50,4 +50,8 @@ npx booz-stack
   </tr>
 
 </table>
+<<<<<<< HEAD
 <div align="center">+ many more to be added....</div>
+=======
+<div align="center">+ many more to be added....</div>
+>>>>>>> ff64c11ed0bf39e175ddfc5521abaced0be1263a
