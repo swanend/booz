@@ -5,6 +5,10 @@
   "module": "./dist/src/index.mjs",
   "types": "./dist/src/index.d.ts",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swanend/booz"
+  },
   "bin": {
     "booz": "./dist/src/index.js"
   },
