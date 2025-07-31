@@ -1,4 +1,3 @@
-
 &nbsp;
 
 <div align="center">
@@ -6,9 +5,10 @@
 </div>
 <div align="center"></div>
 
-
 ---
-### <img src="https://i.ibb.co/Qv42YxQG/bar-graph.png" width="30px">  <img src="https://i.ibb.co/FkMtHG8F/start.png" alt="bout-me" width="98"></img>
+
+### <img src="https://i.ibb.co/Qv42YxQG/bar-graph.png" width="30px"> <img src="https://i.ibb.co/FkMtHG8F/start.png" alt="bout-me" width="98"></img>
+
 <p align="left">
 <strong>
 Build your next project using the `booz` cli 
@@ -17,13 +17,12 @@ Build your next project using the `booz` cli
 ```
 npx booz-stack
 ```
+
 </p>
 
-&nbsp;
----
+## &nbsp;
 
-### <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700zu&rid=giphy.gif" width="30px">  <img src="https://i.ibb.co/PGQ3zwdd/Stacks.png" alt="bout-me" width="108"></img>
-
+### <div><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700zu&rid=giphy.gif" width="30px"> <img src="https://i.ibb.co/PGQ3zwdd/Stacks.png" alt="bout-me" width="108"></img>
 
 <table align="center">
   <tr>
@@ -50,8 +49,4 @@ npx booz-stack
   </tr>
 
 </table>
-<<<<<<< HEAD
 <div align="center">+ many more to be added....</div>
-=======
-<div align="center">+ many more to be added....</div>
->>>>>>> ff64c11ed0bf39e175ddfc5521abaced0be1263a
