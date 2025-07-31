@@ -2,7 +2,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://i.ibb.co/fdmnmfzY/Group-12.png" alt="Booz-cli" min-width="180px" max-width="180px" width="180px" align="center">
+  <img src="https://i.ibb.co/fdmnmfzY/Group-12.png" alt="Booz-cli" width="240px" align="center">
 </div>
 <div align="center"></div>
 
